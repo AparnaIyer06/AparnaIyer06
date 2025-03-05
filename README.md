@@ -49,7 +49,28 @@ A **B.Tech. student majoring in Artificial Intelligence and Machine Learning**, 
 **Cloud:** AWS | Google Cloud  
 **Front-End Development:** HTML | JS | CSS | ReactJS | Bootstrap | Bitly
 **Back-End Development:** MySQL | MongoDB (NoSQL) | NodeJS | MS Excel
+**Open-Source Operating Systems:** Linux
 **Collaboration and Version Control:** GitHub 
+
+### **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+
+### **Data Visualization & AI Tools**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
+### **Operating Systems & Cloud**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ---
 
@@ -80,12 +101,12 @@ My interdisciplinary approach blends **analytical rigor with creativity**, helpi
 
 
 - 🔭 I’m currently working on Computer Vision and Generative Adversarial Nets.
-- 🌱 I’m currently learning Explainable AI, Agentic AI, LLMs.
+- 🌱 I’m currently learning Linux, Explainable AI, Agentic AI, LLMs.
 - 👯 I’m looking to collaborate on projects combining Agentic Workflows with Multimodal Generative AI.
 - 💬 Ask me about Linguistics, and best practices in Data Preprocessing and Visualization.
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a music and linguistics hobbyist. I learn the piano and I'm fascinated by the theory of music.
+- ⚡ Fun fact: I'm a music and linguistics hobbyist. I learn the piano and I'm fascinated by the theory of music.🎼
 - I find that poetry, music and linguistics are not all that different from writing programs.
 - Indeed, programming can be poetic- it has structure, meaning and nuance!
 -->
