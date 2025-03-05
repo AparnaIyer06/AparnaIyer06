@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 Aparna Iyer | AI & ML Enthusiast | Data Scientist  
+# 👩‍💻 Aparna Iyer | AI & ML Engineer (Pursuing) | Data Scientist  
 
 🚀 **Passionate about leveraging AI and data science to solve real-world problems.**  
 🎓 **B.Tech. in Artificial Intelligence & Machine Learning**  
