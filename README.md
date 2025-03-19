@@ -113,7 +113,6 @@ My interdisciplinary approach blends **analytical rigor with creativity**, helpi
 - 🌱 I’m currently learning Linux, Explainable AI, Agentic AI, LLMs.
 - 👯 I’m looking to collaborate on projects combining Agentic Workflows with Multimodal Generative AI.
 - 💬 Ask me about Linguistics, and best practices in Data Preprocessing and Visualization.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a music and linguistics hobbyist. I learn the piano and I'm fascinated by the theory of music.🎼
 - I find that poetry, music and linguistics are not all that different from writing programs.
 - Indeed, programming can be poetic- it has structure, meaning and nuance!
