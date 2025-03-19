@@ -43,14 +43,23 @@ A **B.Tech. student majoring in Artificial Intelligence and Machine Learning**, 
 ## 🛠️ Tech Stack & Tools  
 
 **Languages:** Python | SQL | Java | C++ | C 
+
 **Machine Learning:** TensorFlow | Scikit-Learn | Pandas | NumPy | Matplotlib
+
 **Deep Learning:** Keras | CNNs | Transformers | LSTMs | PyTorch
+
 **Data Visualization:** Power BI | Matplotlib | Seaborn | MS Excel
-**Cloud:** AWS | Google Cloud  
+
+**Cloud:** AWS | Google Cloud 
+
 **Front-End Development:** HTML | JS | CSS | ReactJS | Bootstrap | Bitly
+
 **Back-End Development:** MySQL | MongoDB (NoSQL) | NodeJS | MS Excel
+
 **Open-Source Operating Systems:** Linux
+
 **Collaboration and Version Control:** GitHub 
+
 
 ### **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
